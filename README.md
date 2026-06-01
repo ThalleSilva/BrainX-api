@@ -142,15 +142,13 @@
 
 # 2\. Na pasta raiz do backend, instale as dependências e o gerador do Swagger:
 
-# &#x20;  ```bash
+# Bash
 
-# &#x20;  dotnet add package Swashbuckle.AspNetCore
+# dotnet add package Swashbuckle.AspNetCore
 
-# &#x20;  dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+# dotnet add package Microsoft.EntityFrameworkCore.Sqlite
 
 # Execute as migrações para gerar o arquivo de banco local contendo a carga inicial de dados:
-
-# 
 
 # Bash
 
